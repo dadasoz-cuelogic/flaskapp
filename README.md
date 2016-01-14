@@ -1,4 +1,4 @@
-# flask-demo-application with Restful API for larger applications
+# Flask demo application with Restful API for large projects
 
 A simple Flask demo application and Restful API.
 
